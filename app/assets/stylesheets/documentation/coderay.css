@@ -1,0 +1,295 @@
+.CodeRay .line {
+  display: block;
+  float: left;
+  width: 100%;
+}
+.CodeRay .no {
+  padding: 0px 4px;
+}
+.CodeRay .code pre {
+  overflow: auto;
+}
+.CodeRay .debug {
+  color: white !important;
+  background: blue !important;
+}
+.CodeRay .af {
+  color: #0000cc;
+}
+.CodeRay .an {
+  color: #000077;
+}
+.CodeRay .at {
+  color: #ff0088;
+}
+.CodeRay .av {
+  color: #770000;
+}
+.CodeRay .aw {
+  color: #cc0000;
+}
+.CodeRay .bi {
+  color: #550099;
+  font-weight: bold;
+}
+.CodeRay .c {
+  color: #999988;
+  font-style: italic;
+}
+.CodeRay .ch {
+  color: #0044dd;
+}
+.CodeRay .ch .k {
+  color: #0044dd;
+}
+.CodeRay .ch .dl {
+  color: #003399;
+}
+.CodeRay .cl {
+  color: #445588;
+  font-weight: bold;
+}
+.CodeRay .cm {
+  color: #aa0088;
+  font-weight: bold;
+}
+.CodeRay .co {
+  color: teal;
+}
+.CodeRay .cr {
+  color: #00aa00;
+}
+.CodeRay .cv {
+  color: #336699;
+}
+.CodeRay .de {
+  color: #bb00bb;
+}
+.CodeRay .df {
+  color: #009999;
+  font-weight: bold;
+}
+.CodeRay .di {
+  color: #008888;
+  font-weight: bold;
+}
+.CodeRay .dl {
+  color: black;
+}
+.CodeRay .do {
+  color: #997700;
+}
+.CodeRay .dt {
+  color: #3344bb;
+}
+.CodeRay .ds {
+  color: #dd4422;
+  font-weight: bold;
+}
+.CodeRay .e {
+  color: #666666;
+  font-weight: bold;
+}
+.CodeRay .en {
+  color: #880000;
+  font-weight: bold;
+}
+.CodeRay .er {
+  color: red;
+  background-color: #ffaaaa;
+}
+.CodeRay .ex {
+  color: #cc0000;
+  font-weight: bold;
+}
+.CodeRay .fl {
+  color: #009999;
+}
+.CodeRay .fu {
+  color: #990000;
+  font-weight: bold;
+}
+.CodeRay .gv {
+  color: teal;
+  font-weight: bold;
+}
+.CodeRay .hx {
+  color: #005588;
+  font-weight: bold;
+}
+.CodeRay .i {
+  color: #009999;
+}
+.CodeRay .ic {
+  color: #bb4444;
+  font-weight: bold;
+}
+.CodeRay .il {
+  color: black;
+}
+.CodeRay .il .il {
+  background: #cccccc;
+}
+.CodeRay .il .il .il {
+  background: #bbbbbb;
+}
+.CodeRay .il .idl {
+  color: #dd1144;
+}
+.CodeRay .idl {
+  color: #dd1144;
+}
+.CodeRay .im {
+  color: red;
+}
+.CodeRay .in {
+  color: #bb22bb;
+  font-weight: bold;
+}
+.CodeRay .iv {
+  color: teal;
+}
+.CodeRay .la {
+  color: #997700;
+  font-weight: bold;
+}
+.CodeRay .lv {
+  color: #996633;
+}
+.CodeRay .oc {
+  color: #4400ee;
+  font-weight: bold;
+}
+.CodeRay .of {
+  color: black;
+  font-weight: bold;
+}
+.CodeRay .pc {
+  font-weight: bold;
+}
+.CodeRay .pd {
+  color: #336699;
+  font-weight: bold;
+}
+.CodeRay .pp {
+  color: #557799;
+}
+.CodeRay .ps {
+  color: #0000cc;
+  font-weight: bold;
+}
+.CodeRay .pt {
+  color: #007744;
+  font-weight: bold;
+}
+.CodeRay .r {
+  color: black;
+  font-weight: bold;
+}
+
+.kw {
+  color: black;
+  font-weight: bold;
+}
+
+.CodeRay .ke {
+  color: #880088;
+}
+.CodeRay .ke .dl {
+  color: #660066;
+}
+.CodeRay .ke .ch {
+  color: #8800ff;
+}
+.CodeRay .vl {
+  color: #008888;
+}
+.CodeRay .rx {
+  background-color: #fff0ff;
+}
+.CodeRay .rx .k {
+  color: #880088;
+}
+.CodeRay .rx .dl {
+  color: #440044;
+}
+.CodeRay .rx .mod {
+  color: #cc22cc;
+}
+.CodeRay .rx .fu {
+  color: #440044;
+  font-weight: bold;
+}
+.CodeRay .s {
+  color: #dd2200;
+}
+.CodeRay .s .s.s {
+  background-color: #ffd0d0;
+}
+.CodeRay .s .k, .CodeRay .s .ch, .CodeRay .s .dl {
+  color: #dd1144;
+}
+.CodeRay .sh {
+  color: #dd1144;
+}
+.CodeRay .sh .dl {
+  color: #dd1144;
+}
+.CodeRay .sy {
+  color: #990073;
+}
+.CodeRay .sy .k {
+  color: #aa6600;
+}
+.CodeRay .sy .dl {
+  color: #663300;
+}
+.CodeRay .ta {
+  color: #007700;
+}
+.CodeRay .tf {
+  color: #007700;
+  font-weight: bold;
+}
+.CodeRay .ts {
+  color: #dd7700;
+  font-weight: bold;
+}
+.CodeRay .ty {
+  color: #333399;
+  font-weight: bold;
+}
+.CodeRay .v {
+  color: #003366;
+}
+.CodeRay .xt {
+  color: #444444;
+}
+.CodeRay .ins {
+  background: #aaffaa;
+}
+.CodeRay .del {
+  background: #ffaaaa;
+}
+.CodeRay .chg {
+  color: #aaaaff;
+  background: #000077;
+}
+.CodeRay .head {
+  color: #ff88ff;
+  background: #550055;
+}
+.CodeRay .ins .ins {
+  color: #008800;
+  font-weight: bold;
+}
+.CodeRay .del .del {
+  color: #880000;
+  font-weight: bold;
+}
+.CodeRay .chg .chg {
+  color: #6666ff;
+}
+.CodeRay .head .head {
+  color: #ff44ff;
+}
